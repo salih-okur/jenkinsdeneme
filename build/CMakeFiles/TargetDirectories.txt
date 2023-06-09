@@ -1,4 +1,0 @@
-/home/akis/Downloads/D-shared-library/build/CMakeFiles/akisp11.dir
-/home/akis/Downloads/D-shared-library/build/CMakeFiles/hello_binary.dir
-/home/akis/Downloads/D-shared-library/build/CMakeFiles/edit_cache.dir
-/home/akis/Downloads/D-shared-library/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/hello_binary.dir/src/main.cpp.o -o hello_binary  -Wl,-rpath,/home/akis/Downloads/D-shared-library/build libakisp11.so 
